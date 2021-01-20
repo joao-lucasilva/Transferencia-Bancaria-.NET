@@ -1,6 +1,6 @@
  # Aplicativo Transferências Bacárias .NET
 
-![Landing Page](https://github.com/joao-lucasilva/Instagram-Landing-Page/blob/master/img/screenshot1.JPG)
+![Landing Page](https://github.com/joao-lucasilva/Transferencia-Bancaria-.NET/blob/master/assets/screenshot.JPG)
 
 Tabela de conteúdos
 =================
